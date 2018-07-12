@@ -1,7 +1,9 @@
 # sum in array
 mylis=[]
-n=int(input())
-k=int(input())
+input=int(input())
+inp=input.split()
+n=inp[0]
+k=inp[1]
 i=0
 sum=0
 while(i<n):

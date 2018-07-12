@@ -1,4 +1,5 @@
 # N times
 n=int(input())
-for i in n:
+while(n>0):
     print ("Hello")
+    n=n-1

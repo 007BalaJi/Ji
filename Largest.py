@@ -1,5 +1,5 @@
 # Largest Number
-n= raw_input()
+n= input()
 a=n.split()
 p=a[0]
 q=a[1]
